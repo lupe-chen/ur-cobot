@@ -2,7 +2,7 @@
 
 - **文件版本**: 1.0  
 - **日期**: 2025年07月02日  
-
+- **互動式原型**: https://v0-universal-robots-dashboard.vercel.app
 ---
 
 ## 1. 概述 (Overview)
