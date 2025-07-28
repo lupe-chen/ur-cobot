@@ -1,4 +1,4 @@
-```# 產品需求文件 (PRD): ARM-alpha 智能協作應用程式 for EV Production
+# PRD: ARM-alpha 智能協作應用程式 for EV Production
 
 - **文件版本**: 1.0  
 - **日期**: 2025年07月02日  
@@ -150,4 +150,4 @@
 - **後端/控制器**：嵌入式 Linux（Real-Time Kernel 推薦） + PostgreSQL  
 - **數據平台**：支援 AWS/Azure IoT 對接能力  
 
----```
+---
